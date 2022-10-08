@@ -1,0 +1,21 @@
+Elements can have special meaing but no special styling (Semantic elements)
+e.g. <p> , <main>, <article>, <header>, <footer>
+
+Need all these semantic elements for accessibility, Search Engine Optimisation, convery the correct data
+SEO: Need to have a certain kind of structure so that the search engine can look for the keywords.
+e.g. what are the links and content that are not visible but still in the HTML docuemnt
+
+<title></title> in the <head> display the tab title.
+heading 1 to heading 6
+paragraph element -> clear designation between paragraph
+<br> bad practice to use break to separate the paragraph. it would be easier to edit if only using paragraph tags
+<br> is difficult to edit.
+<ul>,<ol>,<li> -> for list
+<a> -> for links. Can hover. Usually have a 'href' attribute for the link.
+<img > is a void image. There is no closing tags for this.
+img - src is for the link of the image, alt is for accessibility ,incase the iamge is not there
+
+combine elements e.g. <a href = ''><img src = ''><a> make an image into a link!
+
+
+
